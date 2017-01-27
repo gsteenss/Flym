@@ -23,8 +23,8 @@
 
     <!-- GENERAL -->
     <string name="app_name">Flym</string>
-    <string name="about_flym">About Flym</string>
-    <string name="welcome_title">Welcome to Flym. Would you like to add one feed?</string>
+    <string name="about_flym">Acerca de Flym</string>
+    <string name="welcome_title">Bienvenido a Flym. Quiere agregar una fuente?</string>
     <string name="never">nunca</string>
     <string name="update">Actualizar</string>
     <string name="colon">:\u00A0</string>
@@ -36,8 +36,8 @@
     <string name="network_error">No se ha configurado la red</string>
     <string name="loading">Cargando…</string>
     <string name="no_result">Sin resultados</string>
-    <string name="drawer_open">Open navigation drawer</string>
-    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Abrir navegador</string>
+    <string name="drawer_close">Cerrar navegador</string>
 
     <!-- FEEDS -->
     <string name="feeds">Fuentes</string>
@@ -51,7 +51,7 @@
     <string name="menu_add_group">Añadir grupo</string>
     <string name="menu_import">Importar desde OPML</string>
     <string name="menu_export">Exportar a OPML</string>
-    <string name="storage_request_explanation">To be able to import or export the feeds from or to a file, you must allow the application to access to the storage memory.</string>
+    <string name="storage_request_explanation">Para poder importar o expotar fuentes a un archivo, debe permitir el acceso a la memoria.</string>
     <string name="error_feed_error">No hay conectividad a la dirección de la fuente.</string>
     <string name="error_feed_process">No se ha podido procesar la fuente.</string>
     <string name="error_feed_url_exists">Ya existe esta dirección.</string>
@@ -74,8 +74,8 @@
     <string name="filter_is_regex">es una expresión regular</string>
     <string name="filter_apply_to_title">Aplicar al título</string>
     <string name="filter_apply_to_content">Aplicar al contenido</string>
-    <string name="accept">ACCEPT</string>
-    <string name="reject">REJECT</string>
+    <string name="accept">ACEPTAR</string>
+    <string name="reject">DENEGAR</string>
     <string name="feed_search">Buscar fuentes</string>
     <string name="select_file">Seleccionar archivo</string>
     <string name="question_delete_feed">¿Seguro que quiere eliminar esta fuente?</string>
@@ -90,22 +90,22 @@
     </string>
     <string name="to_group_above">Encima del grupo</string>
     <string name="to_group_into">Al grupo</string>
-    <string name="add_custom_feed">Add a custom feed or search for one</string>
-    <string name="google_news_title">Google News topics</string>
-    <string name="google_news_indicator">Select one or several topics to add. Some of them may not be provided by Google for your language.</string>
-    <string name="google_news_top_stories">Top Stories</string>
-    <string name="google_news_world">World</string>
-    <string name="google_news_business">Business</string>
-    <string name="google_news_technology">Technology</string>
-    <string name="google_news_entertainment">Entertainment</string>
-    <string name="google_news_sports">Sports</string>
-    <string name="google_news_science">Science</string>
-    <string name="google_news_health">Health</string>
-    <string name="google_news_custom_topic">Enter custom topic</string>
+    <string name="add_custom_feed">Agregar una fuente personalizada or buscar una fuente</string>
+    <string name="google_news_title">temas de Google Noticias</string>
+    <string name="google_news_indicator">Seleccione uno o varios temas para agregar. es posible que Google no los prove todos en su idomda.</string>
+    <string name="google_news_top_stories">Noticias destacadas</string>
+    <string name="google_news_world">Mundo</string>
+    <string name="google_news_business">Negocios</string>
+    <string name="google_news_technology">Technología</string>
+    <string name="google_news_entertainment">Entretenimiento</string>
+    <string name="google_news_sports">Desportes</string>
+    <string name="google_news_science">Sciencia</string>
+    <string name="google_news_health">Salud</string>
+    <string name="google_news_custom_topic">Digite un tema personalizado</string>
 
     <!-- ENTRIES -->
-    <string name="unread_entries">Unread</string>
-    <string name="all_entries">All entries</string>
+    <string name="unread_entries">No leído</string>
+    <string name="all_entries">Todas las entradas</string>
     <string name="no_entries">No hay entradas</string>
     <string name="favorites">Destacadas</string>
     <string name="context_menu_share_starred">Compartir entradas seleccionadas</string>
@@ -122,13 +122,13 @@
     <string name="see_enclosure">Ver el adjunto</string>
     <string name="see_link">Ver en el navegador</string>
     <string name="cant_open_link">No se ha encontrado una aplicación para este enlace.</string>
-    <string name="open_enclosure">Open enclosure</string>
-    <string name="file">File</string>
-    <string name="download_and_save">Download and save</string>
-    <string name="open_link">Open link</string>
-    <string name="tip_sentence">Tip: slide left to mark as read and slide right to mark as favorite</string>
-    <string name="undo">Undo</string>
-    <string name="marked_as_read">Marked as read</string>
+    <string name="open_enclosure">Abrir carpeta</string>
+    <string name="file">Archivo</string>
+    <string name="download_and_save">Descargar y guardar</string>
+    <string name="open_link">Abrir enlacek</string>
+    <string name="tip_sentence">Tip: deslice a la izquierda para marcar como leído y a la derecha para marcar como favorito</string>
+    <string name="undo">Deshacer</string>
+    <string name="marked_as_read">Marcar como leído</string>
 
     <!-- WIDGET -->
     <string name="red">Rojo</string>
@@ -149,7 +149,7 @@
         entradas.
     </string>
     <string name="settings_notifications_ringtone">Tono</string>
-    <string name="settings_notifications_ringtone_none">None</string>
+    <string name="settings_notifications_ringtone_none">Ninguno</string>
     <string name="settings_notifications_vibrate">Vibración</string>
     <string name="settings_notifications_vibrate_description">Hará vibrar el terminal al recibir
         nuevas entradas.
@@ -184,8 +184,8 @@
     <string name="all_feeds">Todas las fuentes (incl. futuras)</string>
 
     <plurals name="number_of_new_entries">
-        <item quantity="one">One new entry</item>
-        <item quantity="other">%d new entries</item>
+        <item quantity="one">Una nueva entrada</item>
+        <item quantity="other">%d nuevas entradas</item>
     </plurals>
 
     <string-array name="settings_intervals">
@@ -219,9 +219,9 @@
         <item>+3</item>
     </string-array>
     <string-array name="settings_preload_image_modes">
-        <item>Never</item>
-        <item>Only over Wi-Fi</item>
-        <item>Always</item>
+        <item>Nunca</item>
+        <item>Solo en Wi-Fi</item>
+        <item>Siempre</item>
     </string-array>
 
 </resources>
